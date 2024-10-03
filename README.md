@@ -11,4 +11,3 @@ git clone git@github.com:smangham/climate-analysis.git
 ...
 
 **This code is currently in development and not all features will work**
- b4487886d98d991d9b6808f3db91cbab0fc74c82
